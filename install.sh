@@ -1,4 +1,4 @@
-url="https://github.com/ScottBrabo/CheckUser"
+url="https://github.com/MEGA/GLmod"
 
 cd ~
 
